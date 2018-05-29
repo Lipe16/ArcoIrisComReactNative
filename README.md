@@ -1,5 +1,5 @@
-# Projeto Arco-Iris
-## Se trata de um arco-iris na tela do celular, varias cores organizadas em pilha que se movimentam a cada 600 milisegundos
+# Projeto Arco-Íris
+## Se trata de um arco-Íris na tela do celular, varias cores organizadas em pilha que se movimentam a cada 600 milissegundos
 
 
 ### ilustração 01
