@@ -1,3 +1,24 @@
+# Projeto Arco-Iris
+## Se trata de um arco-iris na tela do celular, varias cores organizadas em pilha que se movimentam a cada 600 milisegundos
+
+
+### ilustração 01
+![react](https://image.ibb.co/g8VZ7d/Captura_de_ecra_2018_05_29_a_s_09_22_23.png)
+
+
+### ilustração 02
+![react](https://image.ibb.co/nCw7Sd/Captura_de_ecra_2018_05_29_a_s_09_22_45.png)
+
+
+### ilustração 03
+![react](https://image.ibb.co/mZ8bLy/Captura_de_ecra_2018_05_29_a_s_09_23_03.png)
+
+
+
+
+
+## INSTRUÇÕES  OFICIAIS DE COMO USAR O FRAMEWORK --->
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
